@@ -28,11 +28,11 @@ body{
 }
 
 .cv_wrapper .resume_left .resume_image{
-	width: 50%;
+	width: 100%;
 }
 
 .cv_wrapper .resume_left .resume_image img{
-	width: 50%;
+	width: 100%;
 	display: block;
 }
 
